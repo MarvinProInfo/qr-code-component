@@ -1,0 +1,35 @@
+.content{
+    background-color: hsl(0, 0%, 100%);
+    box-sizing: border-box;
+    margin: 15rem auto;
+    width:20em;
+    padding: 0.1em 0.75em 5em;
+    height: 30em;
+    border-radius: 5%
+}
+
+
+
+img {
+    width:100%;
+    display: block;
+    margin: 0.5rem auto;
+    border-radius: 5%;
+}
+
+h4{
+    text-align: center;
+    font-weight: 700;
+    font-size: 20px;
+    padding:0.5em 0.75em 0.5em ;
+}
+p{
+    text-align: center;
+    font-size: 15px;
+    color: hsl(212, 45%, 89%);
+}
+// @media all and (max-width:375px){
+//   .content{
+//     width: 100%;
+//   }
+// }
